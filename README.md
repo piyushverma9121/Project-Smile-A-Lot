@@ -47,5 +47,4 @@ git clone https://github.com/neelangshu007/Meme-Share-App.git
 ![](/app/src/main/res/drawable/Image_low_resolution.png)
 
 
-@Jaskaran-2022
 
